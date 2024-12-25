@@ -172,6 +172,7 @@ page 2
   <div class="text-0-1-14">MUSICAL CHAIR</div>
   <div class="text-0-1-15">KABADI</div>
 </div>
+
 page 3
 <div class="container--0-">
   <div class="text-0-1-0">EVENT REGISTER FORM</div>
@@ -256,6 +257,7 @@ page 3
   </svg>
   <div class="text-0-1-16">REGISTER</div>
 </div>
+
 page 4
 <div class="container--0-">
   <div class="text-0-1-0">CONTACT US</div>
